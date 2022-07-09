@@ -1,0 +1,72 @@
+
+.h-o
+{
+	color :maroon;
+	margin-left: 400px ;
+}
+
+
+
+.ml-1{
+  margin-left:100px;
+}
+
+.px-2 {
+  padding-right: 0px;
+}
+
+.ml-2{
+  margin-left:50px;
+}
+
+.mr-1{
+  margin-right:20px;
+}
+
+ .footer1 {
+            position: fixed;
+            padding: 10px 10px 0px 10px;
+            bottom: 0;
+            width: 100%;
+            /* Height of the footer*/ 
+            height: 50px;
+            background: grey;
+           
+        }
+      
+     
+ .ml-f{
+  margin-left:40%;
+  font-weight: bolder;
+  
+} 
+
+.l-1
+{
+	 padding:20px;
+     margin-bottom:40px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
